@@ -8,9 +8,10 @@ Available commands:
 "play {youtube video}"
 
 2) Get the time.
-If the computer hears the word "time"
+- If the computer hears the word "time"
 
 3) Search Wikipedia
+- If the computer hears the word wikipia.
 
 4) Computer tells you a programming joke.
 If the computer hears the word "joke."
