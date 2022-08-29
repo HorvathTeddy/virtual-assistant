@@ -1,6 +1,8 @@
 # virtual-assistant
 Virtual Assistant in Python
 
+Fully responsive AI virtual assistant
+
 Executes various commands for the user from otheir voice. 
 
 Available commands:
